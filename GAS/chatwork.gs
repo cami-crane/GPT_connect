@@ -1,7 +1,7 @@
 // Chatwork API Token
-const TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'; // ②で発行したチャットワークAPIトークン
+const TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'; // 発行したChatwork APIトークン
 // OpenAI API Key
-const SECRET_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // ①で発行したOpenAI API Key
+const SECRET_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // 発行したOpenAI API Key
 // OpenAI API Max Token
 const MAX_TOKENS = 4000;//※このあたりの設定値は適宜調整ください
 // OpenAI API Mode Name

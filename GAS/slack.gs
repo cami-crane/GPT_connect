@@ -1,7 +1,7 @@
 // Bot User OAuth Token
-const TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
+const TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'; // 発行したSlack APIトークン
 // OpenAI API Key
-const SECRET_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+const SECRET_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // 発行したOpenAI API Key
 // OpenAI API Max Token
 const MAX_TOKENS = 4000;//※このあたりの設定値は適宜調整ください
 // OpenAI API Mode Name
