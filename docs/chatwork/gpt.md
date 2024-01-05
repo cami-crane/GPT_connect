@@ -1,4 +1,6 @@
 # chatworkでChatGPTを使用する
+- 対象ソースコード: [gpt-3.js](../../src//chatwork/gpt-3.js)
+- 対象ソースコード: [gpt-3_5.js](../../src//chatwork/gpt-3_5.js)
 
 
 ## 仕様

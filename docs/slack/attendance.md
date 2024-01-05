@@ -1,5 +1,5 @@
 # Slackで出欠確認
-対象コード: [atendance.js](../../src//slack//attendance.js)
+- 対象ソースコード: [atendance.js](../../src//slack//attendance.js)
 
 
 ## 仕様

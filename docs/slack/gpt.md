@@ -1,4 +1,5 @@
 # slackでChatGPTを使用する
+- 対象ソースコード: [gpt3.js](../../src//slack/gpt-3.js)
 
 
 ## 仕様
