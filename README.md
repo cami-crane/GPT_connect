@@ -11,7 +11,7 @@ openAIのAPIを使用しています。
 
 ### 出欠確認
 slackで出欠確認できる拡張機能です。
-詳しくは[docs/slack/attendance.md](docs/slack/attendance.md)
+詳しくは[docs/slack/attendance.md](docs/slack/attendance.md)をご覧ください。
 
 ## chatwork
 
